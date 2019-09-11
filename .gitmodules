@@ -1,12 +1,4 @@
 [submodule "external/libigl"]
 	path = external/libigl
 	url = git@github.com:libigl/libigl.git
-[submodule "external/eigen"]
-	path = external/eigen
-	url = git@github.com:eigenteam/eigen-git-mirror.git
-[submodule "external/libigl-glad"]
-	path = external/libigl-glad
-	url = git@github.com:libigl/libigl-glad.git
-[submodule "external/libigl-imgui"]
-	path = external/libigl-imgui
-	url = git@github.com:libigl/libigl-imgui.git
+	
