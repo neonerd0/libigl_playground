@@ -7,3 +7,6 @@
 [submodule "external/libigl-glad"]
 	path = external/libigl-glad
 	url = git@github.com:libigl/libigl-glad.git
+[submodule "external/libigl-imgui"]
+	path = external/libigl-imgui
+	url = git@github.com:libigl/libigl-imgui.git
